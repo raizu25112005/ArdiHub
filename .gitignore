@@ -1,0 +1,14 @@
+# Lua
+*.lua~
+*.luac
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
