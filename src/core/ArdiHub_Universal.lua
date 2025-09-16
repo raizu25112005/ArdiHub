@@ -1,4 +1,4 @@
--- Ardi Hub Universal Loader
+-- Ardi Hub Universal Loader v2
 local supported = {
     ["Synapse X"] = true,
     ["ScriptWare"] = true,
@@ -8,7 +8,10 @@ local supported = {
     ["Electron"] = true,
     ["Temple"] = true,
     ["Comet"] = true,
-    ["EasyExploits"] = true
+    ["EasyExploits"] = true,
+    ["Solara"] = true,  -- Added Solara support
+    ["Xeno"] = true,    -- Added Xeno support
+    ["Delta"] = true    -- Added Delta support for good measure
 }
 
 -- Detect Executor
